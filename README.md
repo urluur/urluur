@@ -1,1 +1,2 @@
 - 📫 Reach me on: [Telegram](https://t.me/urluur/) - urlu@pm.me
+- 💰 Use [Brave Browser](https://brave.com) to support me.
