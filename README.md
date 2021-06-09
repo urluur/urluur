@@ -1,2 +1,4 @@
-- 📫 Reach me on: [Telegram](https://t.me/urluur/) - urlu@pm.me
+- 🏫 Studying at [Vegova Ljubljana](https://www.vegova.si/)
+- 💼 Developer at [Telekom Slovenije](https://www.telekom.si/) 
+- 📫 Reach me on: [Telegram](https://t.me/urluur/) or [urlu@pm.me](mailto:urlu@pm.me)
 - 💰 Use [Brave Browser](https://brave.com) to support me.
