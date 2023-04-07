@@ -6,5 +6,5 @@
 
 <br>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urluur&show_icons=true&locale=en&layout=compact" alt="urluur" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urluur&show_icons=true&locale=en&layout=compact&theme=dark" alt="urluur" />
 </p>
