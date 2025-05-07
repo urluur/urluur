@@ -56,7 +56,7 @@
 </head>
 <body>
 
-    <!-- 1 Title -->
+    <!-- 1 title -->
     <section class="section full-image d-flex flex-column justify-content-center align-items-center text-center">
         <h1 class="display-3 text-white">Luka's Iceberg</h1>
         <p class="lead text-white">"It gets deep."</p>
@@ -120,10 +120,11 @@
                 endTrigger: ".below-water",
                 end: "bottom bottom",
                 scrub: true,
-                // pin: true
             }
         }).to(".background", {
-            backgroundPosition: "top 100%",
+            backgroundPosition: "top 150%",
+            transformOrigin: "bottom center",
+            scale: 2.5,
             ease: "none"
         });
     </script>
